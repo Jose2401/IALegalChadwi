@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IALegalChadwi/static/css/main.0323e8d8.css",
+    "main.js": "/IALegalChadwi/static/js/main.d76aae85.js",
+    "static/js/453.5bd4890a.chunk.js": "/IALegalChadwi/static/js/453.5bd4890a.chunk.js",
+    "index.html": "/IALegalChadwi/index.html",
+    "main.0323e8d8.css.map": "/IALegalChadwi/static/css/main.0323e8d8.css.map",
+    "main.d76aae85.js.map": "/IALegalChadwi/static/js/main.d76aae85.js.map",
+    "453.5bd4890a.chunk.js.map": "/IALegalChadwi/static/js/453.5bd4890a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0323e8d8.css",
+    "static/js/main.d76aae85.js"
+  ]
+}
