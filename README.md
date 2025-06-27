@@ -26,6 +26,14 @@ El enfoque principal del proyecto es facilitar el acceso a servicios legales, op
 
 ---
 
+## Detalles
+- El modelo de IA está implementado de manera local mediante una red neuronal. Se le brindó un conjunto de datos etiquetado manualmente, el cual fue utilizado para entrenar el modelo. Se definieron patrones de posibles preguntas y se proporcionaron respuestas entre las que el modelo podía elegir y enviarlas como respuesta.
+- Después, estas respuestas se combinaron con el modelo de IA ollama 3.1 para crear respuesta más naturales y flexibles, con el objetivo de crear flujos de conversación más amigables para el usuario.
+- Posteriormente, se conectó mediante una API el modelo de ollama 3.1 y las respuestas generadas por la IA para brindar una interfaz simple y conocida por el usuario.
+- Todo lo anterior se realiza utilizando recursos locales, se utiliza una tarjeta gráfica RTX 3060 y un procesador Ryzen 7 de quinta generación.
+Este aproximamiento en la implementación permitió lograr un modelo más especializado en el ámbito de las leyes, mientras que se mantenía la escalabilidad y aprovechamiento de recursos a disposición del equipo.
+
+
 ## Tecnologías Utilizadas
 
 | Tecnología | Uso |
